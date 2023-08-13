@@ -14,7 +14,7 @@ To deploy the AWS SAM application, complete the following steps:
 
 1.	Clone the aws-samples GitHub repository: 
 ```
-git clone https://github.com/aws-samples/glue-job-tracker.git
+git clone https://github.com/aws-samples/glue-job-tracker-ko.git
 ```
 2.	Deploy the AWS SAM application:
 ```
